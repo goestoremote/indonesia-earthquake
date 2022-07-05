@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="earthquake-id-warning",                     # This is the name of the package
-    version="0.0.1",                        # The initial release version
+    version="0.0.2",                        # The initial release version
     author="Heru Setiawan",                     # Full name of the author
     author_email="lenterabots@gmail.com",
     description="this project will report the latest earthquake in Indonesia from BMKG",
